@@ -1,0 +1,9 @@
+.custom-confirm-button {
+    background-color: #302c4c !important; /* Custom background color */
+    color: white !important; /* Custom text color */
+    border: none !important; /* Remove border */
+    padding: 10px 20px !important; /* Add padding */
+    font-size: 16px !important; /* Adjust font size */
+    border-radius: 5px !important; /* Rounded corners */
+    cursor: pointer !important; /* Pointer cursor */
+  }

@@ -1,0 +1,31 @@
+/* Custom SweetAlert2 Button */
+.swal-button-blue {
+    background-color: #2894f4 !important; /* Tailwind's blue-700 */
+    color: white !important;
+    border: none !important;
+    border-radius: 0.375rem !important; /* Tailwind's rounded-md */
+    padding: 0.5rem 1rem !important; /* Tailwind's px-4 py-2 */
+    font-size: 1rem !important; /* Tailwind's text-base */
+    font-weight: 500 !important; /* Tailwind's font-medium */
+    cursor: pointer !important;
+  }
+  
+  .swal-button-blue:hover {
+    background-color: #2563eb !important; /* Tailwind's blue-600 */
+  }
+
+  /* Custom SweetAlert2 Cancel Button */
+.swal-button-red {
+    background-color: #dc2626 !important; /* Tailwind's red-600 */
+    color: white !important;
+    border: none !important;
+    border-radius: 0.375rem !important; /* Tailwind's rounded-md */
+    padding: 0.5rem 1rem !important; /* Tailwind's px-4 py-2 */
+    font-size: 1rem !important; /* Tailwind's text-base */
+    font-weight: 500 !important; /* Tailwind's font-medium */
+    cursor: pointer !important;
+  }
+  
+  .swal-button-red:hover {
+    background-color: #b91c1c !important; /* Tailwind's red-700 */
+  }
