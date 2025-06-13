@@ -1,0 +1,15 @@
+เว็บแอปพลิเคชันสอบออนไลน์
+E-TESTING SYSTEM
+	In the era of rapidly advancing digital technology, education is one of the areas 
+significantly impacted. Most online examination systems primarily focus on evaluating 
+results through scores, where test-takers are often provided only with overall scores 
+without receiving in-depth feedback to guide them on what to further study or which 
+topics to prioritize for improving their understanding. This limitation prevents 
+students from clearly identifying areas or topics that require further knowledge 
+development. To address this issue, an online examination application has been 
+developed with the aim of enhancing students' learning effectively. The application 
+features a system that identifies areas where students should focus on further study 
+by providing content-based feedback rather than emphasizing test scores alone.
+Keywords: Online Examination System, Content-Based Feedback, Knowledge 
+Enhancement
+
